@@ -1,4 +1,4 @@
-# Strapi Plugin Import Export Entries (Single collection export fixed)
+# Strapi Plugin Import Export Entries ( Single collection export fixed )
 
 Import/Export data from and to your database in just few clicks.
 
